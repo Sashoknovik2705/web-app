@@ -28,7 +28,7 @@
   "devDependencies": {
     "@angular/cli": "~1.7.3",
     "@angular/compiler-cli": "^5.2.0",
-    "@angular/language-service": "^5.2.0",
+    "@angular/language-service": "^5.2.8",
     "@clr/angular": "^0.11.8",
     "@clr/icons": "^0.11.8",
     "@clr/ui": "^0.11.8",
